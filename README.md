@@ -1,2 +1,2 @@
-# prepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de el prep course
+Este es un nuevo texto dentro de mi repositorio
+Rosy Rivera Jaramillo
