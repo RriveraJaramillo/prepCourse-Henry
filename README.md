@@ -1,2 +1,3 @@
-Este es un nuevo texto dentro de mi repositorio
-Rosy Rivera Jaramillo
+Esta es otra modificacion a mi repositorio guardado en la nube
+
+rosy
